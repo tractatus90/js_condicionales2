@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+
+.valores {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.submit {
+  display: flex;
+  flex-direction: column;
+  width: 10%;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}

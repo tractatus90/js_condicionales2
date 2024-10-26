@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+img {
+  width: 200px;
+}
+
+.imagenes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.img {
+  display: flex;
+  flex-direction: column;
+}
+
+.enviar {
+  display: flex;
+  flex-direction: column;
+  width: 10%;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
